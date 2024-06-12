@@ -5,3 +5,6 @@ Control your Blender 3D Model with ThreeJS and GSAP
 
 ## ToDo:
 switch to .obj or .fbx for smaller 3D model file... (currently ~190MB :-O in .dae)
+
+## Demo (under construction):
+link: https://wayoutofline.net/spaceship3d/
